@@ -1,0 +1,6 @@
+#this file will contain required packages
+
+numpy
+scrapy
+pandas
+matplotlib
